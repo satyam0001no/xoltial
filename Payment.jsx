@@ -1,0 +1,1 @@
+export default function Payment() { return <div>Make a $2 or $5 Payment via UPI or Bank</div>; }
